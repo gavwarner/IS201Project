@@ -1,0 +1,22 @@
+.bold {
+    font-style: bold;
+    color: white;
+}
+
+.centertext {
+    text-align: center;
+    color: gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.link {
+    color: blue;
+    text-decoration: underline;
+}
+
+.pagetitle{
+    color: white;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+}
